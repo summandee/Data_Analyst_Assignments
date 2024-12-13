@@ -22,9 +22,9 @@ print(salaries)
      # output  ['20k', '40k', '50k', '60k', '35k', '89k', '40k', '100k']
 
 #  5. Add a new salary to the list, ‘120k’ without method.
-salaries[8] = '120k'
+salaries += ['120k']
 print(salaries)
-     ## output   IndexError: list assignment index out of range
+     ## output  ['20k', '40k', '50k', '60k', '35k', '89k', '40k', '120k']
 
 
 #  6. Replace the third salary in the list with '55k' and print the updated list.
