@@ -51,6 +51,5 @@ print(salaries)
 salaries = salaries[::-1]
 print(salaries)
      ##  output    ['40k', '89k', '35k', '60k', '50k', '40k', '20k']
-
 #  **************************************
-#   grading with code
+Naheed Deedar Hussain
