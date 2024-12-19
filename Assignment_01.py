@@ -47,10 +47,10 @@ print(salaries)
     ##  output ['40k', '89k', '35k', '60k', '50k', '40k', '20k']
       
 #  10. Reverse the order of the salaries list without method.
+print(salaries)
 salaries = salaries[::-1]
 print(salaries)
 
      ##  output    ['40k', '89k', '35k', '60k', '50k', '40k', '20k']
 
-#  **************************************
-# salaries grade up after 1 day
+
