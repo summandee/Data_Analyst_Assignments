@@ -55,5 +55,5 @@ print(salaries)
  
      ##  output    ['40k', '89k', '35k', '60k', '50k', '40k', '20k']
 #  **************************************
-Naheed Deedar Hussain
+print("TajUlIslam")
 
